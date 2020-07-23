@@ -64,3 +64,6 @@ C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\obj\Debug\WepAPP.csproj.CoreCompil
 C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\obj\Debug\WepAPP.csproj.CopyComplete
 C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\obj\Debug\WepAPP.dll
 C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\obj\Debug\WepAPP.pdb
+C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\bin\System.Web.Cors.dll
+C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\bin\System.Web.Http.Cors.dll
+C:\Users\FAMILY\Desktop\angular\WepAPP\WepAPP\bin\System.Web.Http.Cors.xml
